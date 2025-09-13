@@ -47,4 +47,10 @@ The notebook covers:
 
 ---
 
-## Repository Structure
+## Requirements
+The project uses Python with the following packages:  
+- scanpy  
+- anndata  
+- numpy, pandas  
+- matplotlib, seaborn  
+- scikit-learn  
